@@ -1,4 +1,4 @@
-## Welcome to Qingyue Zhang Pages
+### Welcome to Qingyue Zhang Pages
 
 Qingyue Zhang was born in Shandong, China. He received the B.S. degree
 in mathematics from Qufu Normal University, Qufu, China in 2006
@@ -6,7 +6,7 @@ and the M.S. degree in mathematics from Nankai University, Tianjin, China,
 in 2009. He is currently a Ph.D. candidate in mathematics at Nankai University.
 His research interests include wavelet analysis and signal processing.
 
-### 科研论文
+## 科研论文
 1.Qingyue Zhang. A note on operator sampling and fractional Fourier transform. Mathematical Problems in Engineering, Volume 2011, Article ID 303460 (SCI)
 
 2.Qingyue Zhang, Ling Wang, Wenchang . Signal denoising with average sampling, Digital Signal Processing, 2012, 22(2), 226--232 (SCI).
