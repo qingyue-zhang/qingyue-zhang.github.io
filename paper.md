@@ -39,6 +39,11 @@
 
 20. Qingyue Zhang, Nonuniform average sampling in multiply generated shift-invariant subspaces of mixed Lebesgue spaces, International Journal of Wavelets Multiresolution and Information Processing, 2020, 18(33) (SCI). <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219691320500137">链接</a>
 
+21. Qingyue Zhang, The closedness of shift invariant subspaces, J. Inequal. Appl., 2018, 166 (SCI). <a href="https://link.springer.com/article/10.1186/s13660-018-1755-2">链接</a>
 
+22. Qingyue Zhang, Sampling theorem on shift invariant subspaces in mixed Lebesgue spaces, Journal of Interdisciplinary Mathematics, 2019, 22(2), 121-128 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/09720502.2019.1578094">链接</a>
 
+23. Qingyue Zhang, Dynamical sampling associated with the fractional Fourier transform, ICSP, 2018 (EI). <a href="https://ieeexplore.ieee.org/document/8652387">链接</a>
+
+24. Yang Han, Bei Liu and Qingyue Zhang, A sampling theory for non-decaying signals in mixed Lebesgue spaces, Appl. Anal., Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
 
