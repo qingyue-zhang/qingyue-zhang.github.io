@@ -6,6 +6,21 @@ and the M.S. degree in mathematics from Nankai University, Tianjin, China,
 in 2009. He is currently a Ph.D. candidate in mathematics at Nankai University.
 His research interests include wavelet analysis and signal processing.
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张庆月</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 ## 科研论文
 1.Qingyue Zhang. A note on operator sampling and fractional Fourier transform. Mathematical Problems in Engineering, Volume 2011, Article ID 303460 (SCI)
 
