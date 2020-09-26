@@ -5,8 +5,8 @@
 
 3. Qingyue Zhang and Wenchang Sun, Reconstruction of splines from nonuniform samples, Acta Math. Sin., 2019, 35(2), 245--256 (SCI). <a href="https://link.springer.com/article/10.1007/s10114-018-7531-x">链接</a>
 
-4. Qingyue Zhang and Wenchang Sun, Invariance of shift invariant spaces, Sci. China Ser. A, 2012, 55(7), 1395-1401, (SCI). <a href="https://link.springer.com/article/10.1007/s11425-012-4399-6">链接</a>
+4. Qingyue Zhang and Wenchang Sun, Invariance of shift invariant spaces, Sci. China Ser. A, 2012, 55(7), 1395-1401 (SCI). <a href="https://link.springer.com/article/10.1007/s11425-012-4399-6">链接</a>
 
-5. Qingyue Zhang and Wenchang Sun, The structure of finitely generated shift-invariant subspaces in super Hilbert spaces, Numer. Funct. Anal. Optim., Accepted (SCI).
+5. Qingyue Zhang and Wenchang Sun, The structure of finitely generated shift-invariant subspaces in super Hilbert spaces, Numer. Funct. Anal. Optim., 2013, 34(3), 349-364 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2012.718022">链接</a>
 
 6. Qingyue Zhang and Wenchang Sun, Vector-stability of refinable vectors, Appl. Anal., Accepted (SCI).
