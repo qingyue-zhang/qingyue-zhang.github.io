@@ -9,4 +9,4 @@
 
 5. Qingyue Zhang and Wenchang Sun, The structure of finitely generated shift-invariant subspaces in super Hilbert spaces, Numer. Funct. Anal. Optim., 2013, 34(3), 349-364 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2012.718022">链接</a>
 
-6. Qingyue Zhang and Wenchang Sun, Vector-stability of refinable vectors, Appl. Anal., Accepted (SCI).
+6. Qingyue Zhang and Wenchang Sun, Vector-stability of refinable vectors, Appl. Anal., 2013, 92(10), 2215-2228 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/00036811.2012.727984">链接</a>
