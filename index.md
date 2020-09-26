@@ -43,5 +43,5 @@ His research interests include wavelet analysis and signal processing.
 6. Qingyue Zhang and Wenchang Sun, Vector-stability of refinable vectors, Appl. Anal., Accepted (SCI).
 
 ## 链接
-https://arxiv.org/
+<a href="https://arxiv.org/">arxiv</a> 
 
