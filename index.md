@@ -10,10 +10,10 @@ His research interests include wavelet analysis and signal processing.
   <tr>
     <td width="75%">
       <h1>张庆月</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>副教授</b></p>
+      <p><b>××天津理工大学××理学院</b></p>
+      <p><b>邮箱：jczhangqingyue@163.com</b></p>
+      <p><b>地址：天津市西青区宾水西道391号，邮编300384</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
