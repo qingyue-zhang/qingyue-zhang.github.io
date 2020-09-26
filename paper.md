@@ -16,3 +16,7 @@
 8. Qingyue Zhang, The Computation of Fourier Transform via Gauss-Regularized Fourier Series, IAENG International Journal of Applied Mathematics, 2018, 48(1), 40-44 (EI). <a href="http://www.iaeng.org/IJAM/issues_v48/issue_1/index.html">链接</a>
 
 9. Qingyue Zhang, Discrete windowed linear canonical transform, ICSPCC, 2016 (EI). <a href="https://ieeexplore.ieee.org/document/7753728/figures#figures">链接</a>
+
+10. Qingyue Zhang, Bei Liu and Rui Li, Dynamical sampling in multiply generated shift-invariant spaces, Appl. Anal., 2016, 96(5), 760-770 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/00036811.2016.1157586">链接</a>
+
+11. Qingyue Zhang, Rui Li and Bei Liu, Periodic Nonuniform Dynamical Sampling in ℓ2(ℤ) and Shift-Invariant Spaces, Numer. Funct. Anal. Optim., 2017, 38(3), 395-407 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2016.1248565">链接</a>
