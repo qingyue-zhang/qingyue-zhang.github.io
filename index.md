@@ -16,7 +16,7 @@ His research interests include wavelet analysis and signal processing.
       <p><b>地址：天津市西青区宾水西道391号，邮编：300384</b></p>
     </td>
     <td width="25%">
-      <img src="qingyue-zhang.github.io/qingyuezhang.jpg" width="100%">      % 插入证件照代码
+      <img src="qingyue-zhang.github.io/qingyuezhang.jpg" width="100%">      
     </td>
   </tr>
 </table>
