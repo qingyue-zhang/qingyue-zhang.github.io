@@ -30,7 +30,7 @@ His research interests include wavelet analysis and signal processing.
 
 
 ## 科研论文
-1. Qingyue Zhang. A note on operator sampling and fractional Fourier transform. Mathematical Problems in Engineering, Volume 2011, Article ID 303460 (SCI)<a href="https://arxiv.org/">arxiv</a>
+1. Qingyue Zhang. A note on operator sampling and fractional Fourier transform. Mathematical Problems in Engineering, Volume 2011, Article ID 303460 (SCI) <a href="https://www.hindawi.com/journals/mpe/2011/303460/">链接</a>
 
 2. Qingyue Zhang, Ling Wang, Wenchang . Signal denoising with average sampling, Digital Signal Processing, 2012, 22(2), 226--232 (SCI).
 
