@@ -37,4 +37,3 @@ His research interests include wavelet analysis and signal processing.
 ## 链接
 https://arxiv.org/
 
-![Image](qingyue-zhang.github.io/P1000797.JPG)
