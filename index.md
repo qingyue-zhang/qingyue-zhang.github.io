@@ -22,11 +22,9 @@ His research interests include wavelet analysis and signal processing.
 </table>
 
 ## 研究方向  
-1. 框架理论
-
-2. 采样定理
-
-3. 相位恢复
+### 框架理论
+### 采样定理
+###相位恢复
 
 
 ## <a href="/paper.html">科研论文</a>
