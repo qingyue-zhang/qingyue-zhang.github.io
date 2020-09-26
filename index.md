@@ -20,9 +20,9 @@ His research interests include wavelet analysis and signal processing.
     </td>
   </tr>
 </table>
+
 ## 研究方向  
 　
-
 ### 框架理论
 框架是Duffin和Schaeffer在研究非调和Fourier级数时提出来的，它是正交基的推广。 近年来，随着小波分析的发展，框架理论越来越受到人们的重视。由于小波具有衰减性、光滑性和消失矩等良好的性质，能 够作局部分析，可以用小波系数的大小来刻划函数空间等，在短短的十几年内，框架理论已经在函数论、偏微分方程、量子 力学、理论物理等众多领域取得了重要的应用。
 
