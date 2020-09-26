@@ -2,8 +2,8 @@
 
 Qingyue Zhang was born in Shandong, China. He received the B.S. degree
 in mathematics from Qufu Normal University, Qufu, China in 2006
-and the M.S. degree in mathematics from Nankai University, Tianjin, China,
-in 2009. He is currently a Ph.D. candidate in mathematics at Nankai University.
+and the M.S. degree and Ph.D. degree in mathematics from Nankai University, Tianjin, China,
+in 2009 and 2012, respectively. He is currently a associate professor in College of Science, Tianjin Unviersity of Technology. 
 His research interests include wavelet analysis and signal processing.
 
 <table border="0">
