@@ -14,11 +14,11 @@ His research interests include wavelet analysis and signal processing.
     <td width="65%">
       <h1>Qingyue Zhang</h1>
       <p><b>Tianjin Unviersity of Technology, College of Science, Associate Professor</b></p>
-      <p><b>研究方向：小波分析与信号处理</b></p>
-      <p><b>联系电话：022-60215553</b></p>
-      <p><b>邮箱：jczhangqingyue@163.com</b></p>
-      <p><b>地址：No. 391 Bin Shui Xi Dao Road, Xiqing District, Tianjin, China</b></p>
-      <p><b>邮编：300384</b></p>
+      <p><b>Research Direction：Wavelet Analysis and Signal Processing</b></p>
+      <p><b>Contact Number：022-60215553</b></p>
+      <p><b>E-Mail：jczhangqingyue@163.com</b></p>
+      <p><b>Address：No. 391 Bin Shui Xi Dao Road, Xiqing District, Tianjin, China</b></p>
+      <p><b>Postcode：300384</b></p>
     </td>
   </tr>
 </table>
