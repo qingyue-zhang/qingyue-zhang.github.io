@@ -1,8 +1,10 @@
 ## Welcome to Qingyue Zhang Pages
 
-You can use the [editor on GitHub](https://github.com/qingyue-zhang/qingyue-zhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Qingyue Zhang was born in Shandong, China. He received the B.S. degree
+in mathematics from Qufu Normal University, Qufu, China in 2006
+and the M.S. degree in mathematics from Nankai University, Tianjin, China,
+in 2009. He is currently a Ph.D. candidate in mathematics at Nankai University.
+His research interests include wavelet analysis and signal processing.
 
 ### Markdown
 
