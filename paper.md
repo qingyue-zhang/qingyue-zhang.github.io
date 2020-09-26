@@ -35,5 +35,10 @@
 
 18. Qingyue Zhang and Zunxian Li, Multivariate dynamical sampling in and shift-invariant spaces, Numer. Funct. Anal. Optim., 2019, 40(6), 670-684 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2018.1561471">链接</a>
 
+19. Qingyue Zhang, Multivariate vector sampling expansion in shift-invariant subspaces, International Journal of Dynamical Systems and Differential Equations, 2020, 10(1), 19-33 (EI). <a href="https://www.inderscience.com/offer.php?id=104900">链接</a>
+
+20. Qingyue Zhang, Nonuniform average sampling in multiply generated shift-invariant subspaces of mixed Lebesgue spaces, International Journal of Wavelets Multiresolution and Information Processing, 2020, 18(33) (SCI). <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219691320500137">链接</a>
+
+
 
 
