@@ -31,6 +31,8 @@ His research interests include wavelet analysis and signal processing.
 
 ## 科研论文 <a href="/paper.html">链接</a>
 
-## 链接
+## 教学
+
+## 常用网址
 <a href="https://arxiv.org/">arxiv</a> 
 
