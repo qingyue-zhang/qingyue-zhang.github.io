@@ -29,7 +29,7 @@ His research interests include wavelet analysis and signal processing.
 3. 下一代无线宽带(BWA)系统如4G无线通讯系统，固定BWA系统(如 IEEE 802.16), 无线局域网 (如IEEE 802.11)对服务 效率与质量提出了比目前标准更高的要求. 信息理论证明多进多出(MIMO)天线系统能在很大程度上改进数据传输速率和连接可靠性. 与单载波调制或码分多址(CDMA)相比, 正交频分复用(OFDM)能在很大程度上减少接收端的解码复杂性. 因此, MIMO-OFDM 有希望成为下一代无线宽带系统的标准.
 
 
-## 科研论文 <a href="qingyue-zhang.github.io/paper.html">链接</a>
+## 科研论文 <a href="/paper.html">链接</a>
 1. Qingyue Zhang. A note on operator sampling and fractional Fourier transform. Mathematical Problems in Engineering, Volume 2011, Article ID 303460 (SCI) <a href="https://www.hindawi.com/journals/mpe/2011/303460/">链接</a>
 
 2. Qingyue Zhang, Ling Wang, Wenchang . Signal denoising with average sampling, Digital Signal Processing, 2012, 22(2), 226--232 (SCI).
