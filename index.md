@@ -1,6 +1,6 @@
 # Welcome to Qingyue Zhang Pages
 
-## <a href="/paper.html">科研论文</a> ## <a href="/teach.html">教学工作</a> ## <a href="/link.html">常用网址</a>
+## <a href="/paper.html">科研论文</a>    <a href="/teach.html">教学工作</a>    <a href="/link.html">常用网址</a>
 
 Qingyue Zhang was born in Shandong, China. He received the B.S. degree
 in mathematics from Qufu Normal University, Qufu, China in 2006
