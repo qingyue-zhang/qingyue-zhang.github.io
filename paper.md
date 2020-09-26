@@ -27,5 +27,13 @@
 
 14. Rui Li, Bei Liu, Rui Liu and Qingyue Zhang, The Lp,q-stability of the shifts of finitely many functions in mixed Lebesgue spaces, Acta Math. Sin., 2018, 34, 1001–1014 (SCI). <a href="https://link.springer.com/article/10.1007/s10114-018-7333-1">链接</a>
 
+15. Qingyue Zhang, Vector-stability of multiple vector refinable vectors, Journal of Classical Analysis, 2017, 10(2), 157-170. <a href="http://jca.ele-math.com/10-15/Vector-stability-of-multiple-vector-refinable-vectors">链接</a>
+
+16. Qingyue Zhang, Vector-stability of univariate refinable vectors, Numer. Funct. Anal. Optim., 2016, 37(7), 913-925 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2016.1180629">链接</a>
+
+17. Qingyue Zhang, Uniqueness guarantees for phase retrieval from discrete windowed fractional Fourier transform, Optik, 2018, 158, 1491-1498 (SCI). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402618300627">链接</a>
+
+18. Qingyue Zhang and Zunxian Li, Multivariate dynamical sampling in and shift-invariant spaces, Numer. Funct. Anal. Optim., 2019, 40(6), 670-684 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2018.1561471">链接</a>
+
 
 
