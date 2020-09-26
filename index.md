@@ -12,7 +12,8 @@ His research interests include wavelet analysis and signal processing.
       <h1>张庆月</h1>
       <p><b>天津理工大学 理学院 副教授</b></p>
       <p><b>邮箱：jczhangqingyue@163.com</b></p>
-      <p><b>地址：天津市西青区宾水西道391号，邮编：300384</b></p>
+      <p><b>地址：天津市西青区宾水西道391号</b></p>
+      <p><b>邮编：300384</b></p>
     </td>
     <td width="25%">
       <img src="qingyue-zhang.github.io/qingyuezhang.jpg" width="100%">      
