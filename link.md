@@ -5,3 +5,5 @@
 
 # 同行主页
 1. <a href="https://blog.nus.edu.sg/matzuows/">Zuowei Shen</a>
+2. <a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a>
+3. <a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Y. Eldar</a>
