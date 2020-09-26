@@ -1,7 +1,7 @@
 # 科研论文
-1. Qingyue Zhang. A note on operator sampling and fractional Fourier transform. Mathematical Problems in Engineering, Volume 2011, Article ID 303460 (SCI) <a href="https://www.hindawi.com/journals/mpe/2011/303460/">链接</a>
+1. Qingyue Zhang. A note on operator sampling and fractional Fourier transform. Mathematical Problems in Engineering, Volume 2011, Article ID 303460 (SCI). <a href="https://www.hindawi.com/journals/mpe/2011/303460/">链接</a>
 
-2. Qingyue Zhang, Ling Wang, Wenchang . Signal denoising with average sampling, Digital Signal Processing, 2012, 22(2), 226--232 (SCI).
+2. Qingyue Zhang, Ling Wang, Wenchang . Signal denoising with average sampling, Digital Signal Processing, 2012, 22(2), 226--232 (SCI). <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200411001916">链接</a>
 
 3. Qingyue Zhang and Wenchang Sun, Reconstruction of splines from nonuniform samples, Acta Math. Appl. Sin., Accepted (SCI).
 
