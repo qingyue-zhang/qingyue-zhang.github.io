@@ -1,4 +1,4 @@
-# Welcome to Qingyue Zhang Pages
+# Welcome to Qingyue Zhang's Pages
 
 Qingyue Zhang was born in Shandong, China. He received the B.S. degree
 in mathematics from Qufu Normal University, Qufu, China in 2006
