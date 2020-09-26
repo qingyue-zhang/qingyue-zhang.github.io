@@ -19,4 +19,13 @@
 
 10. Qingyue Zhang, Bei Liu and Rui Li, Dynamical sampling in multiply generated shift-invariant spaces, Appl. Anal., 2016, 96(5), 760-770 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/00036811.2016.1157586">链接</a>
 
-11. Qingyue Zhang, Rui Li and Bei Liu, Periodic Nonuniform Dynamical Sampling in ℓ2(ℤ) and Shift-Invariant Spaces, Numer. Funct. Anal. Optim., 2017, 38(3), 395-407 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2016.1248565">链接</a>
+11. Qingyue Zhang, Rui Li and Bei Liu, Periodic Nonuniform dynamical sampling in ℓ2(ℤ) and shift-invariant spaces, Numer. Funct. Anal. Optim., 2017, 38(3), 395-407 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2016.1248565">链接</a>
+
+12. Rui Li, Bei Liu, Rui Liu and Qingyue Zhang, Nonuniform sampling in principal shift-invariant subspaces of mixed Lebesgue spaces, J. Math. Anal. Appl., 2017, 453(2), 928-941 (SCI). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X17303906">链接</a>
+
+13. Bei Liu, Rui Li and Qingyue Zhang, The structure of finitely generated shift-invariant spaces in mixed Lebesgue spaces, Banach J. Math. Anal., 2020, 14, 63-77 (SCI). <a href="https://link.springer.com/article/10.1007%2Fs43037-019-00027-z">链接</a>
+
+14. Rui Li, Bei Liu, Rui Liu and Qingyue Zhang, The Lp,q-stability of the shifts of finitely many functions in mixed Lebesgue spaces, Acta Math. Sin., 2018, 34, 1001–1014 (SCI). <a href="https://link.springer.com/article/10.1007/s10114-018-7333-1">链接</a>
+
+
+
