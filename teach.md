@@ -2,7 +2,7 @@
 
 ## 高等数学
 
-### ppt
+### <a href="/paper.html">ppt</a>
 
 ## 线性代数
 
