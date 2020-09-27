@@ -37,11 +37,13 @@
 
 19. Qingyue Zhang and Wenchang Sun, Reconstruction of splines from nonuniform samples, Acta Math. Sin., 2019, 35(2), 245-256 (SCI). <a href="https://link.springer.com/article/10.1007/s10114-018-7531-x">链接</a>
 
-20. Qingyue Zhang, Multivariate vector sampling expansion in shift-invariant subspaces, International Journal of Dynamical Systems and Differential Equations, 2020, 10(1), 19-33 (EI). <a href="https://www.inderscience.com/offer.php?id=104900">链接</a>
+20. Qingyue Zhang and Zunxian Li, Multivariate dynamical sampling in and shift-invariant spaces, Numer. Funct. Anal. Optim., 2019, 40(6), 670-684 (SCI). <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2018.1561471">链接</a>
 
-21. Qingyue Zhang, Nonuniform average sampling in multiply generated shift-invariant subspaces of mixed Lebesgue spaces, International Journal of Wavelets Multiresolution and Information Processing, 2020, 18(33) (SCI). <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219691320500137">链接</a>
+21. Qingyue Zhang, Multivariate vector sampling expansion in shift-invariant subspaces, International Journal of Dynamical Systems and Differential Equations, 2020, 10(1), 19-33 (EI). <a href="https://www.inderscience.com/offer.php?id=104900">链接</a>
 
-22. Bei Liu, Rui Li and Qingyue Zhang, The structure of finitely generated shift-invariant spaces in mixed Lebesgue spaces, Banach J. Math. Anal., 2020, 14, 63-77 (SCI). <a href="https://link.springer.com/article/10.1007%2Fs43037-019-00027-z">链接</a>
+22. Qingyue Zhang, Nonuniform average sampling in multiply generated shift-invariant subspaces of mixed Lebesgue spaces, International Journal of Wavelets Multiresolution and Information Processing, 2020, 18(33) (SCI). <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219691320500137">链接</a>
 
-23. Yang Han, Bei Liu and Qingyue Zhang, A sampling theory for non-decaying signals in mixed Lebesgue spaces, Appl. Anal., Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
+23. Bei Liu, Rui Li and Qingyue Zhang, The structure of finitely generated shift-invariant spaces in mixed Lebesgue spaces, Banach J. Math. Anal., 2020, 14, 63-77 (SCI). <a href="https://link.springer.com/article/10.1007%2Fs43037-019-00027-z">链接</a>
+
+24. Yang Han, Bei Liu and Qingyue Zhang, A sampling theory for non-decaying signals in mixed Lebesgue spaces, Appl. Anal., Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
 
