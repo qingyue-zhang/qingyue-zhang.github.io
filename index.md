@@ -23,4 +23,4 @@ His research interests include wavelet analysis and signal processing.
   </tr>
 </table>
 
-## <a href="/paper.html">Paper</a>  |  <a href="/project.html">Project</a>  |  <a href="/teach.html">Teaching</a>  |  <a href="/model.html">Modeling</a>  |  <a href="/thesis.html">Thesis</a>  |  <a href="/link.html">Websites</a>    
+## <a href="/paper.html">Paper</a>  |  <a href="/project.html">Project</a>  |  <a href="/conferences.html">Thesis</a> | <a href="/teach.html">Teaching</a>  |  <a href="/model.html">Modeling</a> | <a href="/link.html">Websites</a>    
