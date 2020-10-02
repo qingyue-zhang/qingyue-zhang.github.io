@@ -8,10 +8,10 @@ His research interests include wavelet analysis and signal processing.
 
 <table border="0">
   <tr>
-    <td width="35%">
+    <td width="25%">
       <img src="qingyue-zhang.github.io/qingyuezhang.jpg" width="100%">      
     </td>
-    <td width="65%">
+    <td width="75%">
       <h1>Qingyue Zhang</h1>
       <p><b>Tianjin Unviersity of Technology, College of Science, Associate Professor</b></p>
       <p><b>Research Direction：Wavelet Analysis and Signal Processing</b></p>
