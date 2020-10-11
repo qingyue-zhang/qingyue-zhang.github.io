@@ -18,8 +18,21 @@
 </table>
 
 # 同行主页
-### <a href="https://blog.nus.edu.sg/matzuows/">Zuowei Shen</a> | <a href="http://www-stat.wharton.upenn.edu/~tcai/"> Tony Cai</a>
-### <a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a>
-### <a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Yonina Eldar</a>
-### <a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a>
+<table>
+<tr>
+  <td> <a href="https://blog.nus.edu.sg/matzuows/">Zuowei Shen</a></td>
+  <td><a href="http://www-stat.wharton.upenn.edu/~tcai/"> Tony Cai</a></td>
+  <td><a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a></td>
+</tr>
+<tr>
+  <td><a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Yonina Eldar</a></td>
+  <td><a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a></td>
+  <td> </td>
+</tr>
+  <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr> 
+</table>
 
