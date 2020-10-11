@@ -9,7 +9,7 @@ His research interests include wavelet analysis and signal processing.
 <table border="0">
   <tr>
     <td width="35%">
-      <img src="qingyue-zhang.github.io/qingyuezhang.jpg" width="100%">      
+      <img src="qingyue-zhang.github.io/20201011203207.jpg" width="100%">      
     </td>
     <td width="65%">
       <h1>Qingyue Zhang</h1>
