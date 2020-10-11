@@ -10,9 +10,9 @@
 ### <a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a>
 ### <a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Yonina Eldar</a>
 ### <a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a>
-###<table>
+<table>
 <tr>
-  <td>100</td>
+  <td>### 100</td>
   <td>200</td>
   <td>300</td>
 </tr>
