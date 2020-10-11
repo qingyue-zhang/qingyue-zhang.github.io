@@ -8,8 +8,6 @@
   <td><a href="https://www.springer.com/journal/41">JFAA</a></td>
   <td><a href="https://www.sciencedirect.com/journal/applied-and-computational-harmonic-analysis">ACHA</a> </td>
   <td><a href="http://ieeexplore.ieee.org/">IEEE</a></td>
-  <td></td>
-  <td></td>
 </tr> 
 </table>
 
@@ -19,16 +17,8 @@
   <td> <a href="https://blog.nus.edu.sg/matzuows/">Zuowei Shen</a></td>
   <td><a href="http://www-stat.wharton.upenn.edu/~tcai/"> Tony Cai</a></td>
   <td><a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a></td>
-</tr>
-<tr>
   <td><a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Yonina Eldar</a></td>
   <td><a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a></td>
-  <td> </td>
-</tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr> 
 </table>
 
