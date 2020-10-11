@@ -12,7 +12,7 @@
 ### <a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a>
 <table>
 <tr>
-  <td>### 100</td>
+  <td>### <a href="https://www.webofknowledge.com">SCI检索</a></td>
   <td>200</td>
   <td>300</td>
 </tr>
