@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://qingyue-zhang.github.io">Qingyue Zhang</a></a></h1>
+        
+        <img src="touxiang_M31.jpg" alt="Logo" />
+
+        <p>I'm an assistant professor of mathematics at Tianjin University of Techonology.</p>
+
+        <ul class="downloads">
+          <li><a href="courses.html">我讲授的<strong>课程</strong></a></li>
+          <li><a href="articles.html">我发表的<strong>论文</strong></a></li>
+          <li><a href="cv.html">我的<strong>简历</strong></a></li>
+        </ul>
+        
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>那一天我二十一岁，在我一生的黄金时代，我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
