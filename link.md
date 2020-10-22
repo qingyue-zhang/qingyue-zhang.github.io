@@ -19,6 +19,7 @@
   <td><a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a></td>
   <td><a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Yonina Eldar</a></td>
   <td><a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a></td>
+  <td><a href="http://www.alaifari.com/">Rima Alaifari</a></td>
 </tr> 
 </table>
 
