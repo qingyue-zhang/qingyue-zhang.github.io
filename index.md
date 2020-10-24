@@ -17,8 +17,6 @@ His research interests include phase retrieval and signal processing.
       <p><b>Research Direction：Wavelet Analysis and Signal Processing</b></p>
       <p><b>Contact Number：022-60215553</b></p>
       <p><b>E-Mail：jczhangqingyue@163.com</b></p>
-      <p><b>Address：No. 391 Bin Shui Xi Dao Road, Xiqing District, Tianjin, China</b></p>
-      <p><b>Postcode：300384</b></p>
     </td>
   </tr>
 </table>
