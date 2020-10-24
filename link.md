@@ -4,5 +4,5 @@
 
 # 同行主页
 
-### <a href="https://blog.nus.edu.sg/matzuows/">Zuowei Shen</a> | <a href="http://www-stat.wharton.upenn.edu/~tcai/"> Tony Cai</a> | <a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a> | <a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Yonina Eldar</a> | <a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a> | <a href="http://www.alaifari.com/">Rima Alaifari</a> 
+### <a href="https://blog.nus.edu.sg/matzuows/">Zuowei Shen</a> | <a href="http://www-stat.wharton.upenn.edu/~tcai/"> Tony Cai</a> | <a href="https://as.vanderbilt.edu/math/bio/?who=akram-aldroubi">Aldroubi</a> | <a href="https://webee.technion.ac.il/Sites/People/YoninaEldar/index.php">Yonina Eldar</a> | <a href="http://www.math.hkbu.edu.hk/~junfan/">Jun Fan</a> | <a href="http://www.alaifari.com/">Rima Alaifari</a> | <a href="http://statweb.stanford.edu/~candes/">Emmanuel Candès</a> 
 
