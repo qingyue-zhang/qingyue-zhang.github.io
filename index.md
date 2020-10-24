@@ -12,7 +12,6 @@ His research interests include phase retrieval and signal processing.
       <img src="qingyue-zhang.github.io/20201011203207.jpg" width="100%">      
     </td>
     <td width="70%">
-      <h1>Qingyue Zhang</h1>
       <p><b>Tianjin Unviersity of Technology, College of Science, Associate Professor</b></p>
       <p><b>Research Direction：Wavelet Analysis and Signal Processing</b></p>
       <p><b>Contact Number：022-60215553</b></p>
