@@ -14,8 +14,8 @@ His research interests include phase retrieval and signal processing.
     <td width="70%">
       <p><b>Tianjin Unviersity of Technology, College of Science, Associate Professor</b></p>
       <p><b>Research Direction：Wavelet Analysis and Signal Processing</b></p>
-      <p><b>Contact Number：022-60215553</b></p>
       <p><b>E-Mail：jczhangqingyue@163.com</b></p>
+      <p><b>Contact Number：022-60215553</b></p>
     </td>
   </tr>
 </table>
