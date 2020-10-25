@@ -8,10 +8,10 @@ His research interests include phase retrieval and signal processing.
 
 <table border="0">
   <tr>
-    <td width="30%">
+    <td width="29%">
       <img src="qingyue-zhang.github.io/20201011203207.jpg" width="100%">      
     </td>
-     <td width="1%">     
+     <td width="2%">     
     </td>
     <td width="69%">
       <p><b>Tianjin Unviersity of Technology, College of Science, Associate Professor</b></p>
