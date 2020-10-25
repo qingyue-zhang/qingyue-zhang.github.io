@@ -14,8 +14,8 @@ His research interests include phase retrieval and signal processing.
      <td width="2%">     
     </td>
     <td width="69%">
-      <p><b>Tianjin Unviersity of Technology, College of Science, Associate Professor</b></p>
-      <p><b>Research Direction：Function Approximation and Harmonic Analysis
+      <p><b>Affiliated Unit：Tianjin Unviersity of Technology, College of Science, Associate Professor</b></p>
+      <p><b>Direction：Function Approximation and Harmonic Analysis
 </b></p>
       <p><b>E-Mail：jczhangqingyue@163.com</b></p>
       <p><b>Contact Number：022-60215553</b></p>
