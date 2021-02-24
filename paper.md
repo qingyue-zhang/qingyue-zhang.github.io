@@ -47,3 +47,6 @@
 
 24. Yang Han, Bei Liu and Qingyue Zhang, A sampling theory for non-decaying signals in mixed Lebesgue spaces, Appl. Anal., Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
 
+25. Rui Li, Bei Liu and Qingyue Zhang, Uniqueness of STFT phase retrieval in shift-invariant spaces, Applied Mathematics Letters., Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
+
+
