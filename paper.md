@@ -49,4 +49,7 @@
 
 25. Rui Li, Bei Liu and Qingyue Zhang, Uniqueness of STFT phase retrieval in shift-invariant spaces, Applied Mathematics Letters., Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
 
+26. Rui Li and Qingyue Zhang, Uncertainty Principle for the short-time special affine Fourier transform, Circuits, Systems, and Signal Processing, Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
+
+
 
