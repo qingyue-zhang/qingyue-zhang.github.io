@@ -51,5 +51,5 @@
 
 26. Rui Li and Qingyue Zhang, Uncertainty Principle for the short-time special affine Fourier transform, Circuits, Systems, and Signal Processing, Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
 
-
+27. Qingyue Zhang and Zunxian Li, 动态Gabor矩阵测量的相位恢复, 数学学报, 2021, (北大核心). <a href="https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=SXXB&Year=&Issue=">链接</a>
 
