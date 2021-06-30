@@ -1,6 +1,6 @@
-# 常用网址
+# 杂志网址
 
-### <a href="https://www.springer.com/journal/41">JFAA</a> | <a href="https://www.sciencedirect.com/journal/applied-and-computational-harmonic-analysis">ACHA</a> | <a href="http://ieeexplore.ieee.org/">IEEE</a> | <a href="https://www.webofknowledge.com">SCI检索</a> | <a href="http://www.engineeringvillage.com">EI检索</a> | <a href="http://www.fenqubiao.com/Default.aspx">期刊分区</a> | <a href="https://arxiv.org/">Arxiv</a> | <a href="http://gen.lib.rus.ec/">Library Genesis</a> | <a href="https://www.cs.umd.edu/~tomg/projects/phasepack/">Phasepack</a> | <a href="http://www.tjut.edu.cn/">天理</a> | <a href="http://my.tjut.edu.cn/">信息门户</a> | <a href="https://www.163.com/">163</a> | <a href="https://cn.bing.com/?ensearch=1">必应</a> | <a href="https://www.springer.com/journal/43034">AFA</a> | <a href="http://www.stsip.org/">STSIP</a> | <a href="https://onlinelibrary.wiley.com/journal/10991476">MMAS</a> | <a href="http://manu45.magtech.com.cn/sxwlxbA/">数学物理学报</a>
+### <a href="https://www.springer.com/journal/41">JFAA</a> | <a href="https://www.sciencedirect.com/journal/applied-and-computational-harmonic-analysis">ACHA</a> | <a href="http://ieeexplore.ieee.org/">IEEE</a> | <a href="https://www.webofknowledge.com">SCI检索</a> | <a href="http://www.engineeringvillage.com">EI检索</a> | <a href="http://www.fenqubiao.com/Default.aspx">期刊分区</a> | <a href="https://arxiv.org/">Arxiv</a> | <a href="http://gen.lib.rus.ec/">Library Genesis</a> | <a href="https://www.cs.umd.edu/~tomg/projects/phasepack/">Phasepack</a> | <a href="https://www.springer.com/journal/43034">AFA</a> | <a href="http://www.stsip.org/">STSIP</a> | <a href="https://onlinelibrary.wiley.com/journal/10991476">MMAS</a> | <a href="http://manu45.magtech.com.cn/sxwlxbA/">数学物理学报</a>
 
 # 同行主页
 
