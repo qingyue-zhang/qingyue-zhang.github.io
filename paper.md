@@ -49,7 +49,9 @@
 
 25. Rui Li, Bei Liu and Qingyue Zhang, Uniqueness of STFT phase retrieval in shift-invariant spaces, Applied Mathematics Letters., Latest Articles (SCI). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893965921000653">链接</a>
 
-26. Rui Li and Qingyue Zhang, Uncertainty Principle for the short-time special affine Fourier transform, Circuits, Systems, and Signal Processing, Latest Articles (SCI). <a href="https://www.tandfonline.com/doi/full/10.1080/00036811.2020.1736286">链接</a>
+26. Rui Li and Qingyue Zhang, Uncertainty Principle for the short-time special affine Fourier transform, Circuits, Systems, and Signal Processing, Latest Articles (SCI). <a href="https://link.springer.com/article/10.1007/s00034-021-01685-x">链接</a>
 
 27. 李蕊，刘蓓，张庆月, 动态Gabor矩阵测量的相位恢复, 数学学报, 2021, (北大核心). <a href="https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=SXXB&Year=&Issue=">链接</a>
+
+28. Qingyue Zhang，Yue Su，Rui Li, Uniqueness guarantees for phase retrieval from discrete windowed special affine Fourier transform, Optik, 2021, (北大核心). <a href="https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=SXXB&Year=&Issue=">链接</a>
 
