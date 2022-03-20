@@ -53,7 +53,7 @@
 
 27. 李蕊，刘蓓，张庆月, 动态Gabor矩阵测量的相位恢复, 数学学报, 2021, (北大核心). <a href="https://t.cnki.net/kcms/detail?v=qmHbay-RmW1gmqi8kzEUXenh3riTpP6-jfYE8Zm0JqYse3fJQkoCTw4xrvoVCr_TJFJwrX-ZpIJS5t2u0UdXp24rEwIP_wNADYq-V900TzZhhE3CfQxJxIlKr9Vl5xkl&uniplatform=NZKPT">链接</a>
 
-28. Qingyue Zhang，Yue Su，Rui Li, Uniqueness guarantees for phase retrieval from discrete windowed special affine Fourier transform, Optik, 2021, (北大核心). <a href="https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=SXXB&Year=&Issue=">链接</a>
+28. Qingyue Zhang，Yue Su，Rui Li, Uniqueness guarantees for phase retrieval from discrete windowed special affine Fourier transform, Optik, 2021. <a href="https://www.sciencedirect.com/science/article/pii/S003040262100944X">链接</a>
 
-29. Rui Li, Qingyue Zhang, Almost Phaseless Sampling for Spline Spaces with Arbitrary Knots, Numer. Funct. Anal. Optim., 2021, 42(11), 1308-1322, <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2021.1957928?journalCode=lnfa20">链接</a> 
+29. Rui Li, Qingyue Zhang, Almost Phaseless Sampling for Spline Spaces with Arbitrary Knots, Numer. Funct. Anal. Optim., 2021, 42(11), 1308-1322. <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2021.1957928?journalCode=lnfa20">链接</a> 
 
