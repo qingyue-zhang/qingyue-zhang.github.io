@@ -55,3 +55,5 @@
 
 28. Qingyue Zhang，Yue Su，Rui Li, Uniqueness guarantees for phase retrieval from discrete windowed special affine Fourier transform, Optik, 2021, (北大核心). <a href="https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=SXXB&Year=&Issue=">链接</a>
 
+29. Rui Li, Qingyue Zhang, Almost Phaseless Sampling for Spline Spaces with Arbitrary Knots, Numer. Funct. Anal. Optim., 2021, 42(11), 1308-1322, <a href="https://www.tandfonline.com/doi/abs/10.1080/01630563.2021.1957928?journalCode=lnfa20">链接</a> 
+
